@@ -1,0 +1,22 @@
+{
+  "wheel_id": 806,
+  "structure": "umbrella",
+  "slug": "toowoombafencing-115",
+  "project": "fencing-contractors-toowoomba-warranty-b7a15791ed9e56e61e2779a4",
+  "parent_t1_ref": "toowoombafencing-157",
+  "node_role": "feeder",
+  "money_target": "toowoombafencing.au",
+  "primary_kw": "fencing contractors toowoomba warranty",
+  "intended_url": "https://sites-e470-2.web.app/fencing-contractors-toowoomba-warranty-b7a15791ed9e56e61e2779a4/",
+  "tier": "T2",
+  "writeback_nonce": "d7b7b911f836788a",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/fencing-contractors-toowoomba-diy-vs-professional-6061b1403929a/",
+      "anchor": "Fencing Contractors Toowoomba Diy vs Professional: Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
